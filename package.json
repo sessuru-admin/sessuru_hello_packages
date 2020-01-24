@@ -1,5 +1,5 @@
 {
-  "name": "sessuru_hello_packages",
+  "name": "@sessuru-admin/sessuru_hello_packages",
   "version": "1.0.0",
   "description": "simple packaged react component",
   "author": "dgdosen",
